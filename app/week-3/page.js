@@ -8,8 +8,8 @@ export default function Page(){
     ;
 
     return(
-        <main className="p-4 bg-red-300">
-            <h1 className="text-3xl">Shopping List:</h1>
+        <main className="p-4 bg-blue-900">
+            <h1 className="text-3xl text-amber-100">Shopping List:</h1>
             <ul className="list-inside bg-amber-100 rounded-xl m-4 p-2">
                 <li><Item ItemObject={items[0]}/></li>
                 <li><Item ItemObject={items[1]}/></li>
