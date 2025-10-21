@@ -10,7 +10,7 @@ export default function Assignments() {
           <li><Link className="text-cyan-600 underline" href="./week-2/">Assignment2 - Week 2</Link></li>
           <li><Link className="text-cyan-600 underline" href="./week-3/">Assignment3 - Week 3</Link></li>
           <li><Link className="text-cyan-600 underline" href="./week-4/">Assignment4 - Week 4</Link></li>
-
+          <li><Link className="text-cyan-600 underline" href="./week-5/">Assignment5 - Week 5</Link></li>
         </ul>
 
       </main>
